@@ -26,7 +26,7 @@ You can install dependencies using:
 
 ```bash
 pip install -r requirements.txt
-
+```
 ---
 
 ## Usage
