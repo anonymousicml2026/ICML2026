@@ -19,7 +19,6 @@ This repository was developed and tested with the following environment:
 - Python >= 3.10
 - Jupyter Notebook
 - NumPy
-- SciPy
 - Matplotlib
 - Pytorch >= 2.1
 
@@ -27,3 +26,11 @@ You can install dependencies using:
 
 ```bash
 pip install -r requirements.txt
+
+---
+
+## Usage
+This repository is organized such that each Jupyter notebook corresponds directly to the experiments and figures presented in the manuscript.
+To reproduce the results, simply open and execute the notebooks. Running all cells in the notebook reproduces the figures and numerical results reported in the paper.
+
+Note: All hyperparameters are pre-set to the values reported in the paper to ensure exact reproducibility.
